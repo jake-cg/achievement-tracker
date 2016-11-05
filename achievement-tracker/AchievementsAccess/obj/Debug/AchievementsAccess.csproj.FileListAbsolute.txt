@@ -1,0 +1,6 @@
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\bin\Debug\AchievementsAccess.exe.config
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\obj\Debug\AchievementsAccess.exe
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\obj\Debug\AchievementsAccess.pdb
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\bin\Debug\AchievementsAccess.exe
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\bin\Debug\AchievementsAccess.pdb
+C:\Users\Jake\Documents\Visual Studio 2013\Projects\AchievementsAccess\AchievementsAccess\obj\Debug\AchievementsAccess.csprojResolveAssemblyReference.cache
